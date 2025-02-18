@@ -69,7 +69,9 @@ Soru 4: Uzaktan çalışmanın tercih edilmesi, maaş oranları ile nasıl bir i
 
 2. VERİ HAZIRLAMA
 2.1 DEĞİŞKEN VE GÖZLEM SAYISI
+   
 ![image](https://github.com/user-attachments/assets/8cfd4fee-3428-4b97-a175-9bd3cb92b659)
+
 
 Veri kümesinde toplam 11 değişken ve 5000 gözlem vardır.
 
